@@ -4,7 +4,7 @@ Figuring out how to solve some problems using blockchain libraries.
 
 ## General
 
-- [ ] Generate a QR Code that represents a Wallet Address
+- [x] Generate a QR Code that represents a Wallet Address
 
 ## Ethereum (JS)
 
