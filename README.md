@@ -13,6 +13,8 @@ Figuring out how to solve some problems using blockchain libraries.
 - [ ] Payment using Crypto (Testnet)
 - [ ] Exchange NFT for Crypto (Testnet)
 - [ ] Create Smart Contract (Testnet)
+- [x] Check account Balance (Testnet)
+- [ ] Create new account (Testnet)
 
 ## Ethereum (.NET)
 
@@ -21,6 +23,8 @@ Figuring out how to solve some problems using blockchain libraries.
 - [ ] Payment using Crypto (Testnet)
 - [ ] Exchange NFT for Crypto (Testnet)
 - [ ] Create Smart Contract (Testnet)
+- [ ] Check account Balance (Testnet)
+- [ ] Create new account (Testnet)
 
 ## Provenance (JS)
 
@@ -29,3 +33,5 @@ Figuring out how to solve some problems using blockchain libraries.
 - [ ] Payment using Crypto (Testnet)
 - [ ] Exchange NFT for Crypto (Testnet)
 - [ ] Create Smart Contract (Testnet)
+- [ ] Check account Balance (Testnet)
+- [ ] Create new account (Testnet)
